@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @I-am-Lucas-Law-Sau-Ho
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning using library in python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning using Tensorflow in python
+- 💞️ I’m looking to collaborate on game or bank company
 - 📫 How to reach me by gmail lucaslawsauho@gmail.com 
 
 <!---
