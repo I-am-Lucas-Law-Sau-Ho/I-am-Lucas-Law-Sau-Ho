@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @I-am-Lucas-Law-Sau-Ho
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning using Tensorflow in python
-- 💞️ I’m looking to collaborate on game or bank company
-- 📫 How to reach me? by gmail lucaslawsauho@gmail.com 
+### Hi there 👋, I'm Lucas Law Sau Ho
+
+- 👀 I'm interested in coding
+- 🌱 I'm currently learning to use Tensorflow in Python
+- 💞️ I'm looking to collaborate on projects related to gaming or banking industry
+- 📫 You can reach me at lucaslawsauho@gmail.com
 - Introduction: A brief introduction about yourself, including your name, areas of expertise, and the programming languages you are proficient in.
 - Work experience: A summary of your work experience, including the companies you have worked for, the projects you have worked on, and the roles you have held.
 - Projects: A list of your notable projects, along with descriptions and links to their repositories.
