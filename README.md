@@ -10,7 +10,7 @@
 🌱 I am currently learning how to use Tensorflow in Python. Tensorflow is a powerful machine learning library that is widely used in the field of artificial intelligence. I find it fascinating to learn about how machine learning algorithms work, and I am excited to use Tensorflow to develop my own projects.
 
 
-💞️ I am looking to collaborate with a game or bank company. I believe that working with a company in these fields will allow me to apply my skills to develop innovative solutions that can make a positive impact on people's lives.
+💞️ I am looking to collaborate with a game, bank company or professors in Chinese University of Hong Kong. I believe that working with a company or university in these fields will allow me to apply my skills to develop innovative solutions that can make a positive impact on people's lives.
 
 
 📫 If you are interested in collaborating with me or have any questions, please feel free to reach out to me via email at lucaslawsauho@gmail.com. I look forward to hearing from you!
